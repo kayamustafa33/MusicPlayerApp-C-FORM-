@@ -1,0 +1,27 @@
+C:\Users\Mustafa\source\repos\Music Player\Music Player\bin\Debug\net6.0-windows\Music Player.exe
+C:\Users\Mustafa\source\repos\Music Player\Music Player\bin\Debug\net6.0-windows\Music Player.deps.json
+C:\Users\Mustafa\source\repos\Music Player\Music Player\bin\Debug\net6.0-windows\Music Player.runtimeconfig.json
+C:\Users\Mustafa\source\repos\Music Player\Music Player\bin\Debug\net6.0-windows\Music Player.dll
+C:\Users\Mustafa\source\repos\Music Player\Music Player\bin\Debug\net6.0-windows\Music Player.pdb
+C:\Users\Mustafa\source\repos\Music Player\Music Player\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music_Player.Form1.resources
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music_Player.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.csproj.CopyComplete
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.dll
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\refint\Music Player.dll
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.pdb
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music Player.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\ref\Music Player.dll
+C:\Users\Mustafa\source\repos\Music Player\Music Player\bin\Debug\net6.0-windows\Siticone.Desktop.UI.dll
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music_Player.HomePage.resources
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music_Player.SearchPage.resources
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music_Player.SettingsPage.resources
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music_Player.HotHitsTurkey.resources
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music_Player.LikedSongs.resources
+C:\Users\Mustafa\source\repos\Music Player\Music Player\obj\Debug\net6.0-windows\Music_Player.NewMusics.resources
